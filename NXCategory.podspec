@@ -21,7 +21,6 @@ Pod::Spec.new do |s|
 
   s.author             = { "StevenWung" => "stevnwung@yeah.net" }
   s.source       = { :git => "https://github.com/StevenWung/NXCategory.git", :tag => "1.0.0" }
-  s.source_files  = "NXCategory", "Category/*.{h,m}"
-  s.exclude_files = "Classes/Exclude"
+  s.source_files  = "NXCategory", "Category/NX*.{h,m}"
 
 end
