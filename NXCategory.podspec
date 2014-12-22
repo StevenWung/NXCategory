@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary      = "A collection of useful category for ios."
   s.homepage     = "https://github.com/StevenWung/NXCategory"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
-  s.author       = { "Anthony Shoumikhin" => "anthony@shoumikh.in" }
+  s.author       = { "Steven Wung" => "StevenWung@yeah.net" }
   s.source       = { :git => "https://github.com/StevenWung/NXCategory.git", :tag => "1.0.0"}
   s.platform     = :ios, '7.0'
   s.source_files = '*.{h,m}'
