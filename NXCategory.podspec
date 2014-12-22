@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "NXCategory"
-  s.version      = "1.0.1"
+  s.version      = "1.0.0"
   s.summary      = "A collection of useful category for ios."
   s.homepage     = "https://github.com/StevenWung/NXCategory"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
